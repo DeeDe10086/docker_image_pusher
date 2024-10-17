@@ -7,4 +7,4 @@
 registry
 dreamacro/clash
 haishanh/yacd
-alpine:latest
+alpine
